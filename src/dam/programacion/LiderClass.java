@@ -6,6 +6,6 @@ package dam.programacion;
  **/
 public class LiderClass {
     void metodoLider(){
-        System.out.println("Trabajando");
+        System.out.println("Acabé la funcionalidad");
     }
 }
